@@ -146,3 +146,4 @@ class Solution(object):
   ```      
 
 ![](../../Pictures/qrcode.jpg)
+int* twoSum(int* nums, int numsSize, int target, int* returnSize.fix){
